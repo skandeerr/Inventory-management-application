@@ -1,0 +1,44 @@
+.mr {
+    margin-right: 10px !important;
+}
+.mrl{
+    align-items: center !important;
+}
+
+.no-flex-wrap{
+    flex-wrap: inherit  !important;
+   
+}
+.plop {
+    text-decoration: blink;
+}
+
+span {text-decoration: blink;
+
+}
+.backgroud-gray{
+    background-color: #eff2f5 !important;
+
+}
+.size{
+    font-size: 0.8rem !important;
+}
+.title {
+    margin-left: 40px;
+    font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+.depas {
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+.stocks {
+    width : 500px;
+}
+.color_prix{
+    color: rgb(1, 199, 1);
+}
+.th{
+    font-size: 20px;
+}
